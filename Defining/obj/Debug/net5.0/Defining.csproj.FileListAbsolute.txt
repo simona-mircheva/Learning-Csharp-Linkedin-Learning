@@ -1,0 +1,16 @@
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\bin\Debug\net5.0\Defining.exe
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\bin\Debug\net5.0\Defining.deps.json
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\bin\Debug\net5.0\Defining.runtimeconfig.json
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\bin\Debug\net5.0\Defining.runtimeconfig.dev.json
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\bin\Debug\net5.0\Defining.dll
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\bin\Debug\net5.0\ref\Defining.dll
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\bin\Debug\net5.0\Defining.pdb
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\obj\Debug\net5.0\Defining.csproj.AssemblyReference.cache
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\obj\Debug\net5.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\obj\Debug\net5.0\Defining.AssemblyInfoInputs.cache
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\obj\Debug\net5.0\Defining.AssemblyInfo.cs
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\obj\Debug\net5.0\Defining.csproj.CoreCompileInputs.cache
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\obj\Debug\net5.0\Defining.dll
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\obj\Debug\net5.0\ref\Defining.dll
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\obj\Debug\net5.0\Defining.pdb
+C:\Users\Simona.Mircheva\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Classes\Defining\obj\Debug\net5.0\Defining.genruntimeconfig.cache
